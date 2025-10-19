@@ -1,0 +1,5 @@
+html,body,#root{height:100%;margin:0}
+.container{display:flex;align-items:center;justify-content:center;height:100vh;background:linear-gradient(180deg,#6a0dad,#4b0082)}
+.card{text-align:center;color:white;padding:40px;border-radius:12px;background:rgba(255,255,255,0.05)}
+.icon{font-size:64px;margin-bottom:16px}
+h1{font-weight:600}
